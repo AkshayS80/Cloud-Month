@@ -1,4 +1,4 @@
-# Prerequisites
+# Prerequisites(For Google Cloud Study Jams)
 
 Before I started any lab, we were taught how to open the **Google Cloud Console** for the lab and How to activate the **Google Cloud Shell** for command line programming when needed.
 
