@@ -1,8 +1,15 @@
-# My Experience in Google Cloud Study Jams
+# My Cloud Month(August and September) --> My Experience in Azure Fundementals Cloud Skills Challenge and Google Cloud Study Jams
 
-I recently was selected as a participant in the **Google Cloud Study Jams** program where we would learn the basics of Google Cloud and Generative AI through modules filled with videos, labs and quizzes.
+I just had my Cloud month where I finally plunged into the expansive world of the cloud in both Microsoft and Google.
+This is a repository contains all that I learnt as a part of the **Azure Fundementals Cloud Skills Challenge** and **Google Cloud Study Jams** programs. It consists mostly of quick notes of Google Cloud Platform Services for revision of topics and recall.
 
-This is a repository contains all that I learnt as a part of the **Google Cloud Study Jams** program. It consists mostly of quick notes of Google Cloud Platform Services for revision of topics and recall. 
+## Azure Fundementals Cloud Skills Challenge
+
+A little while back, I had the amazing oppourtunity to participate in the **Azure Fundementals Cloud Skills Challenge** where we would learn the basics of Cloud Computing and unravel the potential of Azure through this Azure Fundamental Cloud Skills Challenge. Through this program, I was able to explore Azure architecture, discover the core concepts of Azure including, virtual machines, storage, networking, and identity and understand management and governance resources for effective cloud and on-premises resource management through Modules, Hands-on experience and Quizzes.
+
+## Google Cloud Study Jams
+
+I also recently was selected as a participant in the **Google Cloud Study Jams** program where we would learn the basics of Google Cloud and Generative AI through modules filled with videos, labs and quizzes. 
 
 ### Gen AI Arcade
 
