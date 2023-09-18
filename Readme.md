@@ -1,11 +1,11 @@
-# My Cloud Month (August and September) --> My Experience in Azure Fundementals Cloud Skills Challenge and Google Cloud Study Jams
+# My Cloud Month (August and September) --> My Experience in Azure Fundamentals Challenge and Google Cloud Study Jams
 
 I just had my Cloud month where I finally plunged into the expansive world of the cloud in both Microsoft and Google.
-This is a repository contains all that I learnt as a part of the **Azure Fundementals Cloud Skills Challenge** and **Google Cloud Study Jams** programs. It consists mostly of quick notes of Google Cloud Platform Services for revision of topics and recall.
+This is a repository contains all that I learnt as a part of the **Azure Fundamentals Challenge** and **Google Cloud Study Jams** programs. It consists mostly of quick notes of Google Cloud Platform Services for revision of topics and recall.
 
-## Azure Fundementals Cloud Skills Challenge
+## Azure Fundamentals Cloud Skills Challenge
 
-A little while back, I had the amazing oppourtunity to participate in the **Azure Fundementals Cloud Skills Challenge** where we would learn the basics of Cloud Computing and unravel the potential of Azure through this Azure Fundamental Cloud Skills Challenge. Through this program, I was able to explore Azure architecture, discover the core concepts of Azure including, virtual machines, storage, networking, and identity and understand management and governance resources for effective cloud and on-premises resource management through Modules, Hands-on experience and Quizzes.
+A little while back, I had the amazing oppourtunity to participate in the **Azure Fundamentals Challenge**, a Microsoft Learn Cloud Skills Challenge, where we would learn the basics of Cloud Computing and unravel the potential of Azure. Through this program, I was able to explore Azure architecture, discover the core concepts of Azure including, virtual machines, storage, networking, and identity and understand management and governance resources for effective cloud and on-premises resource management through Modules, Hands-on experience and Quizzes.
 
 ## Microsoft Learn Profile
 Here is my Microsoft Learn account :<https://learn.microsoft.com/en-us/users/AkshaySharma-2123>
