@@ -114,7 +114,8 @@ Data is automatically and instantly copied across regions, which is called synch
 
 Google offers two managed NoSQL database options, **Firestore** and **Cloud Bigtable**.
 
-1. Firestore
+1. Firestore:
+
 Firestore is a flexible, horizontally scalable, NoSQL cloud database for mobile, web, and server development. With Firestore, incoming data is stored in a document structure, and these documents are then organized into collections. Firestore’s NoSQL queries can then be used to retrieve individual, specific documents or to retrieve all the documents in a collection that match your query parameters. Firestore uses data synchronization to update data on any connected device.
 However, it's also designed to make simple, one-time fetch queries efficiently. It caches data that an app is actively using, so the app can write, read, listen to, and query data even if the device is offline. Firestore leverages Google Cloud’s powerful infrastructure: automatic multi-region data replication, strong consistency guarantees, atomic batch operations, and real transaction support.
 
