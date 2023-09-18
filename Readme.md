@@ -1,4 +1,4 @@
-# My Cloud Month(August and September) --> My Experience in Azure Fundementals Cloud Skills Challenge and Google Cloud Study Jams
+# My Cloud Month (August and September) --> My Experience in Azure Fundementals Cloud Skills Challenge and Google Cloud Study Jams
 
 I just had my Cloud month where I finally plunged into the expansive world of the cloud in both Microsoft and Google.
 This is a repository contains all that I learnt as a part of the **Azure Fundementals Cloud Skills Challenge** and **Google Cloud Study Jams** programs. It consists mostly of quick notes of Google Cloud Platform Services for revision of topics and recall.
