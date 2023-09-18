@@ -7,6 +7,7 @@ This is a repository contains all that I learnt as a part of the **Azure Fundeme
 
 A little while back, I had the amazing oppourtunity to participate in the **Azure Fundementals Cloud Skills Challenge** where we would learn the basics of Cloud Computing and unravel the potential of Azure through this Azure Fundamental Cloud Skills Challenge. Through this program, I was able to explore Azure architecture, discover the core concepts of Azure including, virtual machines, storage, networking, and identity and understand management and governance resources for effective cloud and on-premises resource management through Modules, Hands-on experience and Quizzes.
 
+## Microsoft Learn Profile
 Here is my Microsoft Learn account :<https://learn.microsoft.com/en-us/users/AkshaySharma-2123>
 
 ## Google Cloud Study Jams
